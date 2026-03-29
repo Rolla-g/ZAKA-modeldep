@@ -1,3 +1,4 @@
-flask
-tensorflow
-numpy
+flask==3.0.3
+tensorflow==2.19.0
+keras==3.13.2
+numpy==2.0.2
